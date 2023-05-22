@@ -4,9 +4,11 @@
 }
 
 .background {
-	width: 100%;
-	height: 2692px;
-	position: static;
+	width:1920px;
+	height:2692px;
+	position: relative;
+	left: 0px;
+	top: 0px;
 	background-image: url(images/background.png);
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -118,7 +120,7 @@
 	height: 339px;
 	position: relative;
 	left: 396px;
-	top: -1660px;
+	top: -1655px;
 	border-top-left-radius: 95px;
 	border-top-right-radius: 95px;
 	border-bottom-left-radius: 95px;
@@ -153,7 +155,7 @@
 	height: 339px;
 	position: relative;
 	left: 1188px;
-	top: -1660px;
+	top: -1665px;
 	border-top-left-radius: 95px;
 	border-top-right-radius: 95px;
 	border-bottom-left-radius: 95px;
@@ -167,15 +169,16 @@
 
 .packtea {
 	color: rgba(255, 255, 255, 1);
-	width: 219px;
+	width: 223px;
 	height: 160px;
 	position: relative;
-	left: 862px;
-	top: 1594px;
+	left: 5px;
+	top: 115px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
-	font-size: 55px;
+	font-size: 50px;
 	letter-spacing: 0;
+	margin-top: -223px;
 }
 
 .coldtea {
@@ -183,12 +186,13 @@
 	width: 223px;
 	height: 160px;
 	position: relative;
-	left: 1246px;
-	top: 1594px;
+	left: 25px;
+	top: 115px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
-	font-size: 55px;
+	font-size: 50px;
 	letter-spacing: 0;
+	margin-top: -223px;
 }
 
 .alltea {
@@ -196,12 +200,13 @@
 	width: 244px;
 	height: 80px;
 	position: relative;
-	left: 831px;
-	top: 395px;
+	left: 480px;
+	top: 115px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 55px;
 	letter-spacing: 0;
+	margin-top: -244px;
 }
 
 .choosethetea {
@@ -209,12 +214,13 @@
 	width: 250px;
 	height: 80px;
 	position: relative;
-	left: 831px;
-	top: 808px;
+	left: 450px;
+	top: 115px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 55px;
 	letter-spacing: 0;
+	margin-top: -250px;
 }
 
 .blacktea {
@@ -222,11 +228,11 @@
 	width: 180px;
 	height: 160px;
 	position: relative;
-	left: 470px;
-	top: 1178px;
+	left: 45px;
+	top: 115px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
-	font-size: 55px;
+	font-size: 50px;
 	letter-spacing: 0;
 }
 
@@ -235,12 +241,13 @@
 	width: 235px;
 	height: 160px;
 	position: relative;
-	left: 444px;
-	top: 1594px;
+	left: 25px;
+	top: 115px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
-	font-size: 55px;
+	font-size: 50px;
 	letter-spacing: 0;
+	margin-top: -235px;
 }
 
 .fruittea {
@@ -248,11 +255,11 @@
 	width: 318px;
 	height: 203px;
 	position: relative;
-	left: 813px;
-	top: 1178px;
+	left: 5px;
+	top: 115px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
-	font-size: 55px;
+	font-size: 47px;
 	letter-spacing: 0;
 }
 
@@ -261,8 +268,8 @@
 	width: 203px;
 	height: 160px;
 	position: relative;
-	left: 1246px;
-	top: 1186px;
+	left: 25px;
+	top: 115px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 55px;
@@ -271,11 +278,11 @@
 
 .description {
 	color: rgba(112.62499898672104, 73.39395090937614, 14.547397792339325, 1);
-	width: 1219px;
-	height: 392px;
+	width:1920px;
+	height:260px;
 	position: relative;
-	left: 396px;
-	top: 1874px;
+	left: 300px;
+	top: -1700px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 25px;
@@ -287,15 +294,15 @@
 	height: 260px;
 	position: relative;
 	left: 0px;
-	top: 2430px;
+	top: -1452;
 }
 
 .downbackgroundpicture {
-	width: 100%;
-	height: 270px;
+	width:1920px;
+	height:258px;
 	position: static;
 	left: 0px;
-	top: 2px;
+	top: -1510;
 	background-image: url(images/image_10.png);
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -306,8 +313,8 @@
 	width: 390px;
 	height: 36px;
 	position: relative;
-	left: 642px;
-	top: 199px;
+	left: 645px;
+	top: -215px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 24px;
@@ -319,12 +326,14 @@
 	width: 409px;
 	height: 36px;
 	position: relative;
-	left: 642px;
-	top: 163px;
+	left: 350px;
+	top: -250px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 24px;
 	letter-spacing: 0;
+	margin-top: -409px;
+	
 }
 
 .email {
@@ -332,12 +341,13 @@
 	width: 390px;
 	height: 31px;
 	position: relative;
-	left: 642px;
-	top: 132px;
+	left: -45px;
+	top: -280px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 24px;
 	letter-spacing: 0;
+	margin-top: -390px;
 }
 
 .selectthetea2 {
@@ -345,8 +355,8 @@
 	width: 75px;
 	height: 10px;
 	position: relative;
-	left: 1163px;
-	top: 124px;
+	left: 158px;
+	top: -280px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 16px;
@@ -358,8 +368,8 @@
 	width: 200px;
 	height: 10px;
 	position: relative;
-	left: 1163px;
-	top: 55px;
+	left: 85px;
+	top: -340px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 16px;
@@ -371,8 +381,8 @@
 	width: 120px;
 	height: 10px;
 	position: relative;
-	left: 1163px;
-	top: 89px;
+	left: -55px;
+	top: -310px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 16px;
@@ -384,8 +394,8 @@
 	width: 100px;
 	height: 10px;
 	position: relative;
-	left: 1163px;
-	top: 20px;
+	left: -485px;
+	top: -373px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 16px;
@@ -398,8 +408,8 @@
 	width: 75px;
 	height: 10px;
 	position: relative;
-	left: 1381px;
-	top: 20px;
+	left: -355px;
+	top: -373px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 16px;
@@ -412,12 +422,13 @@
 	width: 75px;
 	height: 10px;
 	position: relative;
-	left: 1380px;
-	top: 55px;
+	left: -413px;
+	top: -340px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 16px;
 	letter-spacing: 0;
+	
 }
 
 .comments {
@@ -425,8 +436,8 @@
 	width: 75px;
 	height: 10px;
 	position: relative;
-	left: 1380px;
-	top: 89px;
+	left: -450px;
+	top: -310px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 16px;
@@ -438,8 +449,8 @@
 	width: 75px;
 	height: 10px;
 	position: relative;
-	left: 1531px;
-	top: 55px;
+	left: 1550px;
+	top: -366px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 16px;
@@ -451,8 +462,8 @@
 	width: 75px;
 	height: 10px;
 	position: relative;
-	left: 1531px;
-	top: 89px;
+	left: 1502px;
+	top: -336px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 16px;
@@ -464,8 +475,8 @@
 	width: 75px;
 	height: 10px;
 	position: relative;
-	left: 1531px;
-	top: 124px;
+	left: 1443px;
+	top: -306px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 16px;
@@ -477,8 +488,8 @@
 	width: 75px;
 	height: 10px;
 	position: relative;
-	left: 1531px;
-	top: 20px;
+	left: 1397px;
+	top: -399px;
 	font-family: Sweet Mavka Script;
 	text-align: left;
 	font-size: 16px;
@@ -499,10 +510,10 @@
 }
 
 .headerpos_pic {
-	width: 100%;
-	height: 244px;
+	width:1920px;
+	height:244px;
 	position: fixed;
-	left: 0px;
+	left: 8px;
 	top: 0px;
 	background-image: url(images/image_11.png);
 	background-repeat: no-repeat;
@@ -535,8 +546,8 @@
 	width: 196px;
 	height: 56px;
 	position: relative;
-	left: 0px;
-	top: 0px;
+	left: 45px;
+	top: -55px;
 	font-family: Sweet Mavka Script;
 	text-align: center;
 	font-size: 36px;
@@ -569,8 +580,8 @@
 	width: 196px;
 	height: 56px;
 	position: relative;
-	left: 0px;
-	top: 0px;
+	left: 45px;
+	top: -55px;
 	font-family: Sweet Mavka Script;
 	text-align: center;
 	font-size: 36px;
@@ -603,8 +614,8 @@
 	width: 196px;
 	height: 56px;
 	position: relative;
-	left: 0px;
-	top: 0px;
+	left: 45px;
+	top: -55px;
 	font-family: Sweet Mavka Script;
 	text-align: center;
 	font-size: 36px;
@@ -637,8 +648,8 @@
 	width: 196px;
 	height: 56px;
 	position: relative;
-	left: 0px;
-	top: 0px;
+	left: 40px;
+	top: -55px;
 	font-family: Sweet Mavka Script;
 	text-align: center;
 	font-size: 36px;
@@ -689,30 +700,24 @@
 	position: relative;
 	width: 196px;
 	height: 186px;
-	left: 313px;
-	top: 38px;
+	left: -1020px;
+	top: -215px;
 }
 
 .telegram {
 	position: relative;
 	width: 54px;
 	height: 54px;
-	left: 642px;
-	top: 26px;
-	background-image: url(images/Telegram.svg);
-	background-repeat: no-repeat;
-	background-size: cover;
+	left: -890px;
+	top: -355px;
 }
 
 .vklogo {
 	position: relative;
 	width: 54px;
 	height: 54px;
-	left: 642px;
-	top: 80px;
-	background-image: url(images/VK.svg);
-	background-repeat: no-repeat;
-	background-size: cover;
+	left: -945px;
+	top: -310px;
 }
 
 .toplogo {
