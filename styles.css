@@ -16,7 +16,7 @@
 	background-color: rgba(200.81250607967377, 185.49721509218216, 176.8823629617691, 1);
 	width: 1516px;
 	height: 2140px;
-	position: absolute;
+	position: relative;
 	left: 202px;
 	top: 244px;
 	border-top-left-radius: 95px;
@@ -29,9 +29,9 @@
 	background-color: rgba(0, 0, 0, 0.5);
 	width: 1124px;
 	height: 330px;
-	position: absolute;
+	position: relative;
 	left: 396px;
-	top: 270px;
+	top: -1870px;
 	border-top-left-radius: 95px;
 	border-top-right-radius: 95px;
 	border-bottom-left-radius: 95px;
@@ -46,9 +46,9 @@
 	background-color: rgba(0, 0, 0, 0.5);
 	width: 1124px;
 	height: 330px;
-	position: absolute;
+	position: relative;
 	left: 398px;
-	top: 675px;
+	top: -1800px;
 	border-top-left-radius: 95px;
 	border-top-right-radius: 95px;
 	border-bottom-left-radius: 95px;
@@ -63,9 +63,9 @@
 	background-color: rgba(0, 0, 0, 0.5);
 	width: 332px;
 	height: 339px;
-	position: absolute;
+	position: relative;
 	left: 396px;
-	top: 1080px;
+	top: -1730px;
 	border-top-left-radius: 95px;
 	border-top-right-radius: 95px;
 	border-bottom-left-radius: 95px;
@@ -80,9 +80,9 @@
 	background-color: rgba(0, 0, 0, 0.5);
 	width: 332px;
 	height: 339px;
-	position: absolute;
+	position: relative;
 	left: 794px;
-	top: 1080px;
+	top: -1730px;
 	border-top-left-radius: 95px;
 	border-top-right-radius: 95px;
 	border-bottom-left-radius: 95px;
@@ -91,15 +91,16 @@
 	opacity: 0.7;
 	background-repeat: no-repeat;
 	background-size: cover;
+	margin-top: -339px;
 }
 
 .greenteapicture {
 	background-color: rgba(0, 0, 0, 0.5);
 	width: 332px;
 	height: 339px;
-	position: absolute;
+	position: relative;
 	left: 1192px;
-	top: 1080px;
+	top: -1730px;
 	border-top-left-radius: 95px;
 	border-top-right-radius: 95px;
 	border-bottom-left-radius: 95px;
@@ -108,15 +109,16 @@
 	opacity: 0.7;
 	background-repeat: no-repeat;
 	background-size: cover;
+	margin-top: -339px;
 }
 
 .herbalteapicture {
 	background-color: rgba(0, 0, 0, 0.5);
 	width: 332px;
 	height: 339px;
-	position: absolute;
+	position: relative;
 	left: 396px;
-	top: 1485px;
+	top: -1660px;
 	border-top-left-radius: 95px;
 	border-top-right-radius: 95px;
 	border-bottom-left-radius: 95px;
@@ -131,9 +133,9 @@
 	background-color: rgba(0, 0, 0, 0.5);
 	width: 332px;
 	height: 339px;
-	position: absolute;
+	position: relative;
 	left: 800px;
-	top: 1485px;
+	top: -1660px;
 	border-top-left-radius: 95px;
 	border-top-right-radius: 95px;
 	border-bottom-left-radius: 95px;
@@ -142,15 +144,16 @@
 	opacity: 0.7;
 	background-repeat: no-repeat;
 	background-size: cover;
+	margin-top: -332px;
 }
 
 .coldteapicture {
 	background-color: rgba(0, 0, 0, 0.5);
 	width: 332px;
 	height: 339px;
-	position: absolute;
+	position: relative;
 	left: 1188px;
-	top: 1485px;
+	top: -1660px;
 	border-top-left-radius: 95px;
 	border-top-right-radius: 95px;
 	border-bottom-left-radius: 95px;
@@ -159,13 +162,14 @@
 	opacity: 0.7;
 	background-repeat: no-repeat;
 	background-size: cover;
+	margin-top: -332px;
 }
 
 .packtea {
 	color: rgba(255, 255, 255, 1);
 	width: 219px;
 	height: 160px;
-	position: absolute;
+	position: relative;
 	left: 862px;
 	top: 1594px;
 	font-family: Sweet Mavka Script;
@@ -178,7 +182,7 @@
 	color: rgba(255, 255, 255, 1);
 	width: 223px;
 	height: 160px;
-	position: absolute;
+	position: relative;
 	left: 1246px;
 	top: 1594px;
 	font-family: Sweet Mavka Script;
@@ -191,7 +195,7 @@
 	color: rgba(255, 255, 255, 1);
 	width: 244px;
 	height: 80px;
-	position: absolute;
+	position: relative;
 	left: 831px;
 	top: 395px;
 	font-family: Sweet Mavka Script;
@@ -204,7 +208,7 @@
 	color: rgba(255, 255, 255, 1);
 	width: 250px;
 	height: 80px;
-	position: absolute;
+	position: relative;
 	left: 831px;
 	top: 808px;
 	font-family: Sweet Mavka Script;
@@ -217,7 +221,7 @@
 	color: rgba(255, 255, 255, 1);
 	width: 180px;
 	height: 160px;
-	position: absolute;
+	position: relative;
 	left: 470px;
 	top: 1178px;
 	font-family: Sweet Mavka Script;
@@ -230,7 +234,7 @@
 	color: rgba(255, 255, 255, 1);
 	width: 235px;
 	height: 160px;
-	position: absolute;
+	position: relative;
 	left: 444px;
 	top: 1594px;
 	font-family: Sweet Mavka Script;
@@ -243,7 +247,7 @@
 	color: rgba(255, 255, 255, 1);
 	width: 318px;
 	height: 203px;
-	position: absolute;
+	position: relative;
 	left: 813px;
 	top: 1178px;
 	font-family: Sweet Mavka Script;
@@ -256,7 +260,7 @@
 	color: rgba(255, 255, 255, 1);
 	width: 203px;
 	height: 160px;
-	position: absolute;
+	position: relative;
 	left: 1246px;
 	top: 1186px;
 	font-family: Sweet Mavka Script;
@@ -269,7 +273,7 @@
 	color: rgba(112.62499898672104, 73.39395090937614, 14.547397792339325, 1);
 	width: 1219px;
 	height: 392px;
-	position: absolute;
+	position: relative;
 	left: 396px;
 	top: 1874px;
 	font-family: Sweet Mavka Script;
@@ -281,7 +285,7 @@
 .downbackground {
 	width: 100%;
 	height: 260px;
-	position: absolute;
+	position: relative;
 	left: 0px;
 	top: 2430px;
 }
@@ -301,7 +305,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 390px;
 	height: 36px;
-	position: absolute;
+	position: relative;
 	left: 642px;
 	top: 199px;
 	font-family: Sweet Mavka Script;
@@ -314,7 +318,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 409px;
 	height: 36px;
-	position: absolute;
+	position: relative;
 	left: 642px;
 	top: 163px;
 	font-family: Sweet Mavka Script;
@@ -327,7 +331,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 390px;
 	height: 31px;
-	position: absolute;
+	position: relative;
 	left: 642px;
 	top: 132px;
 	font-family: Sweet Mavka Script;
@@ -340,7 +344,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 75px;
 	height: 10px;
-	position: absolute;
+	position: relative;
 	left: 1163px;
 	top: 124px;
 	font-family: Sweet Mavka Script;
@@ -353,7 +357,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 200px;
 	height: 10px;
-	position: absolute;
+	position: relative;
 	left: 1163px;
 	top: 55px;
 	font-family: Sweet Mavka Script;
@@ -366,7 +370,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 120px;
 	height: 10px;
-	position: absolute;
+	position: relative;
 	left: 1163px;
 	top: 89px;
 	font-family: Sweet Mavka Script;
@@ -379,7 +383,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 100px;
 	height: 10px;
-	position: absolute;
+	position: relative;
 	left: 1163px;
 	top: 20px;
 	font-family: Sweet Mavka Script;
@@ -393,7 +397,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 75px;
 	height: 10px;
-	position: absolute;
+	position: relative;
 	left: 1381px;
 	top: 20px;
 	font-family: Sweet Mavka Script;
@@ -407,7 +411,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 75px;
 	height: 10px;
-	position: absolute;
+	position: relative;
 	left: 1380px;
 	top: 55px;
 	font-family: Sweet Mavka Script;
@@ -420,7 +424,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 75px;
 	height: 10px;
-	position: absolute;
+	position: relative;
 	left: 1380px;
 	top: 89px;
 	font-family: Sweet Mavka Script;
@@ -433,7 +437,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 75px;
 	height: 10px;
-	position: absolute;
+	position: relative;
 	left: 1531px;
 	top: 55px;
 	font-family: Sweet Mavka Script;
@@ -446,7 +450,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 75px;
 	height: 10px;
-	position: absolute;
+	position: relative;
 	left: 1531px;
 	top: 89px;
 	font-family: Sweet Mavka Script;
@@ -459,7 +463,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 75px;
 	height: 10px;
-	position: absolute;
+	position: relative;
 	left: 1531px;
 	top: 124px;
 	font-family: Sweet Mavka Script;
@@ -472,7 +476,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 75px;
 	height: 10px;
-	position: absolute;
+	position: relative;
 	left: 1531px;
 	top: 20px;
 	font-family: Sweet Mavka Script;
@@ -517,7 +521,7 @@
 	background-color: rgba(140.00000685453415, 182.00000435113907, 233.00000131130219, 1);
 	width: 196px;
 	height: 56px;
-	position: absolute;
+	position: relative;
 	left: 0px;
 	top: 0px;
 	border-top-left-radius: 28px;
@@ -530,7 +534,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 196px;
 	height: 56px;
-	position: absolute;
+	position: relative;
 	left: 0px;
 	top: 0px;
 	font-family: Sweet Mavka Script;
@@ -551,7 +555,7 @@
 	background-color: rgba(140.00000685453415, 182.00000435113907, 233.00000131130219, 1);
 	width: 196px;
 	height: 56px;
-	position: absolute;
+	position: relative;
 	left: 0px;
 	top: 0px;
 	border-top-left-radius: 28px;
@@ -564,7 +568,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 196px;
 	height: 56px;
-	position: absolute;
+	position: relative;
 	left: 0px;
 	top: 0px;
 	font-family: Sweet Mavka Script;
@@ -585,7 +589,7 @@
 	background-color: rgba(140.00000685453415, 182.00000435113907, 233.00000131130219, 1);
 	width: 196px;
 	height: 56px;
-	position: absolute;
+	position: relative;
 	left: 0px;
 	top: 0px;
 	border-top-left-radius: 28px;
@@ -598,7 +602,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 196px;
 	height: 56px;
-	position: absolute;
+	position: relative;
 	left: 0px;
 	top: 0px;
 	font-family: Sweet Mavka Script;
@@ -619,7 +623,7 @@
 	background-color: rgba(140.00000685453415, 182.00000435113907, 233.00000131130219, 1);
 	width: 196px;
 	height: 56px;
-	position: absolute;
+	position: relative;
 	left: 0px;
 	top: 0px;
 	border-top-left-radius: 28px;
@@ -632,7 +636,7 @@
 	color: rgba(45.00000111758709, 48.000000938773155, 78.00000295042992, 1);
 	width: 196px;
 	height: 56px;
-	position: absolute;
+	position: relative;
 	left: 0px;
 	top: 0px;
 	font-family: Sweet Mavka Script;
@@ -682,7 +686,7 @@
 }
 
 .logo {
-	position: absolute;
+	position: relative;
 	width: 196px;
 	height: 186px;
 	left: 313px;
@@ -690,7 +694,7 @@
 }
 
 .telegram {
-	position: absolute;
+	position: relative;
 	width: 54px;
 	height: 54px;
 	left: 642px;
@@ -701,7 +705,7 @@
 }
 
 .vklogo {
-	position: absolute;
+	position: relative;
 	width: 54px;
 	height: 54px;
 	left: 642px;
